@@ -1,0 +1,13 @@
+# for plotting the map
+# descartes is the dependent package for geopandas
+descartes
+geopandas
+matplotlib
+pandas
+
+# downloading and process data
+requests
+beautifulsoup4
+
+# Graphics and data visualization
+plotly
